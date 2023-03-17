@@ -1,0 +1,183 @@
+{"level":30,"time":"2023-03-17T21:32:47.497Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Listening on 63737"}
+{"level":30,"time":"2023-03-17T21:32:47.540Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-17T21:32:47.541Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-17T21:32:47.675Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-17T21:32:47.675Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-17T21:32:47.686Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-03-17T21:32:48.271Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-03-17T21:32:48.302Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-03-17T21:32:48.302Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-03-17T21:32:48.318Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method newContext"}
+{"level":30,"time":"2023-03-17T21:32:48.303Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Trace file: "}
+{"level":30,"time":"2023-03-17T21:32:48.318Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Changed active context"}
+{"level":30,"time":"2023-03-17T21:32:48.330Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-03-17T21:32:48.329Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-03-17T21:32:49.217Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Video path: undefined"}
+{"level":30,"time":"2023-03-17T21:32:49.217Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Changed active page"}
+{"level":30,"time":"2023-03-17T21:32:50.528Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method newPage"}
+{"level":30,"time":"2023-03-17T21:32:50.611Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method click"}
+{"level":30,"time":"2023-03-17T21:32:50.611Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is enabled, find Locator with //button[@id='overlay-open'] in page."}
+{"level":30,"time":"2023-03-17T21:32:50.767Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method click"}
+{"level":30,"time":"2023-03-17T21:32:50.784Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2023-03-17T21:32:50.785Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is enabled, find Locator with //div[contains(@class, 'mobile-search')]//input[@class='search-field'] in page."}
+{"level":30,"time":"2023-03-17T21:32:50.822Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method typeText"}
+{"level":30,"time":"2023-03-17T21:32:50.832Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method keyboardKey"}
+{"level":30,"time":"2023-03-17T21:32:50.832Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Invoking keyboard action press with params [\"Enter\"]"}
+{"level":30,"time":"2023-03-17T21:32:50.836Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method keyboardKey"}
+{"level":30,"time":"2023-03-17T21:32:50.853Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:50.854Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:50.886Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Error of node method  getElementCount"}
+================= Original suppressed error =================
+locator.count: Execution context was destroyed, most likely because of a navigation
+    at getElementCount (/Users/lalmeida/src/web-automation-blog-doagi/.venv/lib/python3.10/site-packages/Browser/wrapper/index.js:8694:31)
+    at async PlaywrightServer.getElementCount (/Users/lalmeida/src/web-automation-blog-doagi/.venv/lib/python3.10/site-packages/Browser/wrapper/index.js:9967:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2023-03-17T21:32:50.905Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:50.905Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:50.987Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.005Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.005Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.011Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.025Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.025Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.028Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.041Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.041Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.045Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.058Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.058Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.061Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.075Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.075Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.077Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.089Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.089Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.092Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.106Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.106Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.109Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.124Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.124Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.127Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.143Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.143Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.147Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.166Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.166Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.170Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.185Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.185Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.189Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.203Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.204Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.208Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.221Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.222Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.224Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.239Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.239Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.242Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.258Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.258Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.262Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.279Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.279Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.283Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.300Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.300Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.304Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.321Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.321Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.324Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.342Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.342Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.347Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.363Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.363Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.367Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.381Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.382Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.385Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.400Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.400Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.404Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.418Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.418Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.421Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.434Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.434Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.437Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.450Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.450Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.453Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.466Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.466Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.469Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.483Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.484Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.492Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.506Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.506Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.510Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.524Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.524Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.527Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.542Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.542Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.544Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.557Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.557Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.559Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.574Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.574Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.577Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.594Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.594Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.598Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.615Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.615Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.620Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.637Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.637Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.640Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.657Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.657Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.661Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.677Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.677Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.681Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.700Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.700Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.705Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.723Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.723Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.727Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.744Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.744Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.749Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.767Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.767Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.771Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.786Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.786Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.789Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.806Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.806Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.810Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.828Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.828Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.833Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.849Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.849Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.852Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.868Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.868Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.871Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.889Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.889Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Strict mode is disabled, return Locator: article in page."}
+{"level":30,"time":"2023-03-17T21:32:51.893Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method getElementCount"}
+{"level":30,"time":"2023-03-17T21:32:51.900Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-03-17T21:32:52.122Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-03-17T21:33:20.487Z","pid":19807,"hostname":"MacBook-Pro-de-Leonardo.local","msg":"Removed page=b4ed3988-bdd5-46b0-80e5-32c4d1bb3edb from context=fee64075-9a46-40dc-b1a8-2ba410d2e2af page stack"}
