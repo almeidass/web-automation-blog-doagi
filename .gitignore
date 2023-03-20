@@ -176,5 +176,7 @@ output.xml
 report.html
 selenium-screenshot-*.png
 interactive_console_output.xml
+browser/
+playwright-log.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python,robotframework
