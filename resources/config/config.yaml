@@ -1,0 +1,17 @@
+CONFIG:
+  DEFAULT:
+    EXEC_ENV: HML
+    HEADLESS: False # True or False
+  PROD:
+    BASE_URL: https://blogdoagi.com.br
+    BROWSER: chromium
+    TIMEOUT:  30
+    SPEED: 0
+    DEVICE: Desktop Chrome
+  HML:
+    BASE_URL: https://blogdoagi.com.br/
+    BROWSER: chromium
+    TIMEOUT:  60
+    SPEED: 0
+    # DEVICE: Desktop Chrome
+    DEVICE: iPhone 8 Plus
