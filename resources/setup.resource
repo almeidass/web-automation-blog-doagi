@@ -59,6 +59,5 @@ Setup Web Environment
 
 Teardown Web Environment
     Take Screenshot    EMBED
-    # Capture Page Screenshot    EMBED
-    # Close All Browsers
+    Close Browser
     
